@@ -1,6 +1,6 @@
 # Setup an environment for running this book's examples
 
-FROM ubuntu
+FROM ubuntu:24.10
 MAINTAINER Russell Jurney, russell.jurney@gmail.com
 
 WORKDIR /root
